@@ -29,7 +29,7 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
    - Open Chrome and go to `chrome://extensions/`
    - Enable **Developer mode** (toggle in top right)
    - Click **Load unpacked**
-   - Select the extension folder
+   - Select the extension folder "B.U.P.A"
    - The extension should now appear in your extensions list
 
 3. **Pin the extension (Recommended)**
