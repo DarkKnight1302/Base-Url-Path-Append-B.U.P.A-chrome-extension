@@ -182,9 +182,6 @@ A: Chrome extensions cannot access internal Chrome pages for security reasons.
 **Q: My paths disappeared**  
 A: If Chrome sync is disabled, paths are stored locally. Enable sync or re-add paths.
 
-**Q: Path opens in same tab instead of new tab**  
-A: This is the expected behavior. The extension always opens paths in new tabs.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension/blob/main/LICENSE) file for details.
