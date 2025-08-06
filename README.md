@@ -1,7 +1,7 @@
 # Base-Url-Path-Append-B.U.P.A-chrome-extension
 A lightweight Chrome extension that allows you to quickly navigate to different paths of the current website's base URL. Perfect for developers, testers, and power users who frequently access various endpoints or sections of web applications.
 
-![Extension Screenshot](https://via.placeholder.com/400x300?text=Extension+Screenshot)
+![Extension Screenshot](https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension/blob/356216132b03d75d371a63abc76cd0236dc0e6cd/BUPA_popup.png)
 
 ## Features
 
@@ -28,19 +28,15 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
    git clone https://github.com/yourusername/base-uri-path-append.git
    cd base-uri-path-append
    ```
-
-2. **Prepare icons (Optional)**
-   - Add your own icon files: `icon16.png`, `icon32.png`, `icon48.png`, `icon128.png`
-   - Or remove the `icons` section from `manifest.json` if you don't have icons
-
-3. **Load in Chrome**
+   
+2. **Load in Chrome**
    - Open Chrome and go to `chrome://extensions/`
    - Enable **Developer mode** (toggle in top right)
    - Click **Load unpacked**
    - Select the extension folder
    - The extension should now appear in your extensions list
 
-4. **Pin the extension (Recommended)**
+3. **Pin the extension (Recommended)**
    - Click the puzzle piece icon in Chrome's toolbar
    - Find "Base URI Path Append" and click the pin icon
 
@@ -70,18 +66,6 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
 - **View all paths**: All saved paths are displayed in the popup
 - **Delete paths**: Click the red "Delete" button next to any path
 - **Edit paths**: Delete and re-add with updated information
-
-## Example Use Cases
-
-### For Developers
-- **Local Development**: Quickly switch between `localhost:3000/`, `localhost:3000/admin`, `localhost:3000/api`
-- **API Testing**: Jump between different API endpoints
-- **Documentation**: Quick access to `/docs`, `/swagger`, `/api-docs`
-
-### For QA/Testers
-- **Environment Testing**: Switch between staging paths easily
-- **Feature Testing**: Access specific feature pages quickly
-- **Admin Functions**: Quick access to admin panels and tools
 
 ### For General Users
 - **Productivity**: Bookmark frequently visited sections of websites
