@@ -195,15 +195,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✨ Add custom paths with shortcut names
 - 🎯 Smart base URL extraction
 - 💾 Persistent storage with Chrome sync
-- ✨ Clean, modern interface
 - 🗑️ Path management (add/delete)
-- ⌨️ Keyboard navigation support
 
 ## Support
 
 If you encounter any issues or have feature requests:
 
-1. Check the [Issues](https://github.com/yourusername/base-uri-path-append/issues) page
+1. Check the [Issues](https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension/issues) page
 2. Create a new issue with detailed information
 3. Include Chrome version and steps to reproduce
 
