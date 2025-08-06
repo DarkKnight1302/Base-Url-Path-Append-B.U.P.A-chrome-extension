@@ -205,12 +205,6 @@ If you encounter any issues or have feature requests:
 2. Create a new issue with detailed information
 3. Include Chrome version and steps to reproduce
 
-## Acknowledgments
-
-- Icons from [Your Icon Source]
-- Inspired by developer productivity tools
-- Built with vanilla web technologies for maximum compatibility
-
 ---
 
 **Made with ❤️ for developers and power users**
