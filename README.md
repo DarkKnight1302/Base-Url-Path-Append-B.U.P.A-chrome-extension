@@ -99,7 +99,6 @@ The extension uses Chrome's `chrome.storage.sync` API to save your paths, which 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/base-uri-path-append.git
-   cd base-uri-path-append
    ```
 
 2. **No build process required** - This extension uses vanilla HTML, CSS, and JavaScript
