@@ -23,7 +23,6 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
 1. **Download the extension**
    ```bash
    git clone https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension.git
-   cd base-uri-path-append
    ```
    
 2. **Load in Chrome**
@@ -68,20 +67,6 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
 - **Productivity**: Bookmark frequently visited sections of websites
 - **Navigation**: Faster access to deep-linked pages
 
-## File Structure
-
-```
-base-uri-path-append/
-├── manifest.json          # Extension configuration
-├── popup.html            # Extension popup interface
-├── popup.js             # Main functionality
-├── README.md            # This file
-└── icons/               # Extension icons (optional)
-    ├── icon16.png
-    ├── icon32.png
-    ├── icon48.png
-    └── icon128.png
-```
 
 ## Technical Details
 
