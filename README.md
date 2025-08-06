@@ -187,7 +187,7 @@ A: This is the expected behavior. The extension always opens paths in new tabs.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension/blob/main/LICENSE) file for details.
 
 ## Changelog
 
