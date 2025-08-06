@@ -22,7 +22,7 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
 
 1. **Download the extension**
    ```bash
-   git clone https://github.com/yourusername/base-uri-path-append.git
+   git clone https://github.com/DarkKnight1302/Base-Url-Path-Append-B.U.P.A-chrome-extension.git
    cd base-uri-path-append
    ```
    
