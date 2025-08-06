@@ -8,10 +8,7 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
 - 🚀 **Quick Path Navigation**: Instantly navigate to predefined paths from any website's base URL
 - 🏷️ **Custom Shortcuts**: Create memorable shortcut names for your frequently used paths
 - 💾 **Persistent Storage**: Your paths are saved across browser sessions
-- 🎯 **Smart URL Handling**: Automatically extracts base URL from current tab
-- ✨ **Clean Interface**: Modern, intuitive popup design
 - 🗑️ **Easy Management**: Add and remove paths with simple controls
-- ⌨️ **Keyboard Support**: Navigate forms using Enter key
 
 ## How It Works
 
