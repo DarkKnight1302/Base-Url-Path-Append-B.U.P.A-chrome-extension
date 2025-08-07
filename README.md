@@ -36,9 +36,8 @@ A lightweight Chrome extension that allows you to quickly navigate to different 
    - Click the puzzle piece icon in Chrome's toolbar
    - Find "Base URI Path Append" and click the pin icon
 
-### Method 2: Chrome Web Store (Coming Soon)
-
-*This extension will be available on the Chrome Web Store soon.*
+### Method 2: Chrome Web Store
+https://chromewebstore.google.com/detail/base-uri-path-append/pepjfhidmpilpoclbpmccjjhfcodfnbe
 
 ## Usage
 
